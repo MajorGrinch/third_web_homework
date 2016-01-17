@@ -1,0 +1,1 @@
+<div class = "nonproject"><h1><?php echo "No project! You can create a project" ?></h1></div>
